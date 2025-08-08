@@ -1,5 +1,8 @@
 # Digital Wallet Transactions Dashboard
 
+<img width="1768" height="907" alt="image" src="https://github.com/user-attachments/assets/e4f6bc9d-9b6e-4f85-af30-b581ee20a317" />
+
+
 This project is a dynamic, interactive dashboard built using Taipy in Python. It provides a comprehensive overview of digital wallet transaction data, allowing users to filter and analyze key metrics and trends. The dashboard is designed to deliver insights into revenue, transaction volumes, and user behavior in a clear and intuitive way.
 
 ### 🖇️Data Source:
