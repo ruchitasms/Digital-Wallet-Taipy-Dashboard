@@ -10,7 +10,9 @@ https://www.kaggle.com/datasets/harunrai/digital-wallet-transactions?resource=do
 ### 🔑Key Features:
 
 🔹Interactive Filters: Analyze data by selecting specific date ranges and payment methods.
+
 🔹Key Performance Indicators (KPIs): Instantly view critical metrics such as Total Revenue, Total Transactions, Average Payment Amount, and the Top Device Type.
+
 🔹Data Visualization: Explore trends and distributions through various charts, including:
 - Line chart for Revenue over Time
 - Bar chart for Revenue by Payment Method
@@ -21,6 +23,9 @@ https://www.kaggle.com/datasets/harunrai/digital-wallet-transactions?resource=do
 ### 👩🏼‍💻Technologies Used:
 
 🔹Taipy: For building the interactive, web-based dashboard.
+
 🔹Pandas: For efficient data manipulation and analysis.
+
 🔹Plotly (via Taipy): For generating rich, interactive charts.
+
 🔹Python: The core programming language for the entire application.
